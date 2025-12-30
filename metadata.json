@@ -1,0 +1,8 @@
+{
+  "name": "IceSprayBind",
+  "creator": "LeaoMartelo",
+  "description": "Set one extra bind for the same hotbat slot",
+  "entry": "index.js",
+  "requires": ["PogData"],
+  "version": "0.0.2"
+}
